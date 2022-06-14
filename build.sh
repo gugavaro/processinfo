@@ -1,0 +1,1 @@
+g++ -std=c++20 -stdlib=libc++ processinfo.cpp -o processinfo -DNDEBUG -g
